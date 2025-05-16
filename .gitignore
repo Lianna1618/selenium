@@ -1,2 +1,16 @@
 .vscode/
 venv/
+# Build results
+bin/
+obj/
+*.exe
+*.dll
+
+# VS files
+.vs/
+*.user
+*.suo
+
+# Others
+*.log
+*.tmp
